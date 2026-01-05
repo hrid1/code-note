@@ -1,12 +1,3 @@
-Drafting Redux folder structure documentation:
-
-
-[2 tools called]
-
-
-Redux folder structure documentation:
-
-```markdown
 # Redux Architecture Documentation
 
 ## Overview
